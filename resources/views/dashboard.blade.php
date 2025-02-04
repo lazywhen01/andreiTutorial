@@ -11,7 +11,7 @@
                 <div class="p-6 text-gray-900">
                     <livewire:tabs />
                 </div>
-            </div>dsgfdgfdgdfg
-        </div>fdfdg
+            </div>
+        </div>
     </div>
 </x-app-layout>
