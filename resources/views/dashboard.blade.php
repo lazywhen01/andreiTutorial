@@ -12,6 +12,6 @@
                     <livewire:tabs />
                 </div>
             </div>dsgfdgfdgdfg
-        </div>
+        </div>fdfdg
     </div>
 </x-app-layout>
