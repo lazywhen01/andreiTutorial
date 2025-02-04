@@ -23,7 +23,7 @@ class UpdateContactRequest extends FormRequest
     {
         return [
             'name' => 'required',
-            'email' => 'required|email',
+            'email' => 'required|email|unique:contacts,email,' . $this->route('contact')->id . ',id',
            'phone_number' => 'required',
         ];
     }
